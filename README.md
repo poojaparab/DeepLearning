@@ -1,4 +1,4 @@
-# ENGR-E 533 Deep Learning Systems
+# Deep Learning Systems
  
 ## Homework 1:
 - Problem 1 : Softmax MNIST Classification
