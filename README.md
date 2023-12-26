@@ -12,4 +12,13 @@
 - Problem 3 : Data Augmentation
 - Problem 4 : Self-Supervised Learning using Pretext Class
 
+## Homework 3:
+- Problem 1,2 & 3 : Network Compression using SVD
+- Problem 4 : Speaker Verification
+- Problem 5 : Speech Denoising Using RNN
 
+## Homework 4:
+- Problem 1 : RNN as a Generative Model
+- Problem 2 : Variational AutoEncoders on Poor Sevens
+- Problem 3 : Conditional GAN
+- Problem 4 : Missing Value Imputation using Conditional GAN
